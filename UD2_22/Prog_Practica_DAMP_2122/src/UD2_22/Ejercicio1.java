@@ -14,6 +14,8 @@ public class Ejercicio1 {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hola clase, primera prueba github");
+		System.out.println("Hola clase, cambio para el segundo commit");
+		
 
 	}
 
